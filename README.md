@@ -16,7 +16,7 @@ InheritX is a blockchain-based application developed on <b>Internet Computer (IC
 ### NOTE
 
 - Users who have an [INSEE](https://www.insee.fr/en/accueil) number or living in France are eligible to use this application
-- This repo contains Backend Canisters Code, for Frontend Canister code visit [InheritX-UI](https://github.com/mzurs/InheritX-UI)
+- This repo contains Backend Canisters Code, for Frontend Canister code visit [InheritX-UI](https://github.com/whereasjovially/InheritX-UI)
 
 ## Prerequisites
 
@@ -58,4 +58,4 @@ InheritX is a blockchain-based application developed on <b>Internet Computer (IC
 
 ## License
 
-This project is licensed under the MIT license, see [LICENSE](<[LICENSE](https://github.com/mzurs/InheritX/blob/main/LICENSE)>) for details.
+This project is licensed under the MIT license, see [LICENSE](<[LICENSE](https://github.com/whereasjovially/InheritX/blob/main/LICENSE)>) for details.
